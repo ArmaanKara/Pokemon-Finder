@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+.App-Row{
+  display: flex;
+}
+.App-ColLeft {
+  flex: 50%;
+  margin-right: -10rem;
+}
+.App-ColRight {
+  flex: 50%;
+  margin-left: -10rem;
+
+}

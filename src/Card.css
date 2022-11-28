@@ -1,0 +1,16 @@
+.card {
+    max-width: 300px;
+    max-height: 300px;
+    /* border-style: solid;
+    border-style: ; */
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: auto;
+}
+.container {
+    text-align: left;
+    margin-left: 10px;
+}
+.headings {
+    margin-bottom: -0.75rem;
+}
